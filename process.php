@@ -11,6 +11,7 @@ if(isset($_POST['btnLogin'])){
       message("Invalid Username and Password!", "error");
       redirect("login.php");
          
+      
     } else {  
   //it creates a new objects of member
     $user = new User();
