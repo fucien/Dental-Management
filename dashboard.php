@@ -32,6 +32,7 @@ if (!isset($_SESSION['ADMIN_USERID'])) {
                     $p = @$mydb->loadSingleResult();
                     echo @$p->allmemeber;
                     ?>
+                    
                   </h3>
                 </div>
                 <div class="card-footer">
