@@ -19,6 +19,7 @@ $invno = $res->AUTO;
 		width: 100%;
 		/*height: 20px;*/
 	}
+	
 </style>
 	<div class="row">
     <div class="col-lg-12">
