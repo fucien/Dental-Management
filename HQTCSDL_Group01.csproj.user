@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Components\CustomerControl\CreateOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CustomerControl\CustomerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CustomerControl\CustomerOrderStatisticsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CustomerControl\CustomerViewOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\LoginControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\BranchControls\CreateBranchControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ContractControls\ContractReadOnlyControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ContractControls\CreateContractControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\OrderControls\OrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\OrderControls\PartnerViewOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\PartnerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ProductControls\AddProductControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ProductControls\DeleteProductControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ContractControls\ExtendContractControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\OrderControls\PartnerStatisticsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ProductControls\UpdateProductAmountControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ProductControls\UpdateProductControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\BranchControls\ViewBranchControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\PartnerControls\ContractControls\ViewContractControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\CustomerControl\ProductAmountDeleteControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ShipperControl\AcceptOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ShipperControl\ShipperControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ShipperControl\ShipperViewStatisticsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Components\ShipperControl\UpdateOrderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ErrorVersionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FixVersionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectVersionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
