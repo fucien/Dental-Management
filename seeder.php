@@ -12,7 +12,6 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-
 // Generate and execute INSERT queries for 10,000 rows
 for ($i = 1; $i <= 10000; $i++) {
     $Fname = "First" . $i;
