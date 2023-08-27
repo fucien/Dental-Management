@@ -20,6 +20,7 @@ require_once("../include/initialize.php");
       
                    $discounted_price=0; 
 
+                   
                 echo '<tr data-tt-id="1'.$result->SKU.'" style="background:#ddd">';
                 // echo '<td>'. $result->SKU.'</td>';
                 echo '<td> <input type="checkbox" name="selector[]" id="selector[]" value="'.$result->SKU. '"/></td>';
