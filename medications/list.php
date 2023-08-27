@@ -53,6 +53,7 @@ if (!isset($_SESSION['ADMIN_USERID'])) {
                         <span class="fa fa-trash-o fw-fa"></span>Remove</a>
                       </td>';
 					echo '</tr>';
+					
 				}
 				?>
 			</tbody>
