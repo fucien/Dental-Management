@@ -20,7 +20,6 @@ switch ($action) {
 	doDelete();
 	break;
 
- 
 	}
 
 function calcutateAge($dob){
