@@ -13,7 +13,6 @@ $res = $autonum->set_autonumber('INVOICENO');
 $invno = $res->AUTO;
 
 ?>
-
 <style type="text/css">
 	#stretch a > img{
 		width: 100%;
