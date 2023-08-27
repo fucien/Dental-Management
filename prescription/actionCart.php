@@ -32,7 +32,6 @@ switch ($action) {
 	Check_StudentID();
 	break;
 	
-
 }
 
 function doInsert(){
