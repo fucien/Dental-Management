@@ -18,6 +18,7 @@ if (isset($_POST['updateCart'])) {
 		  
 }
 
+
 if (isset($_POST['btnChangePrice'])) {
 	# code...
 	$invno = $_POST['invno'];
