@@ -23,6 +23,7 @@ foreach ($inv as $result) {
   
 }
 
+
  
 $sql = "SELECT * FROM `tblpayments` WHERE  InvoiceNo='{$invno}'";
 $mydb->setQuery($sql);
