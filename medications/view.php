@@ -24,6 +24,7 @@ global $mydb;
 	$attachmentfile = $mydb->loadSingleResult();
 
 
+	
 ?> 
 <style type="text/css">
 .content-header {
