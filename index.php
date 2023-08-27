@@ -10,7 +10,8 @@ switch ($view) {
 		$content='dashboard.php';		
 		break;
 	case 'login' : 
-        $title="Login";	
+		
+     	$title="Login";	
 		$content='login.php';		
 		break; 
 
