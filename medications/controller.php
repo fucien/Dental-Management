@@ -30,6 +30,7 @@ switch ($action) {
 
 	}
    
+	
 	function doInsert(){
 		global $mydb;
 		if(isset($_POST['save'])){ 
